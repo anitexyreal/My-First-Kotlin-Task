@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirst Kotlin Task</string>
+    <string name="full_name">Name: Anietimfon Edet Effiong</string>
+    <string name="email">Email: anietimfoneeffiong@gmail.com</string>
+    <string name="track">Track: Mobile (Coding)</string>
+    <string name="slack_user_name">Slack Username: Titi</string>
+</resources>
